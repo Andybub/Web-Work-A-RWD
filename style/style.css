@@ -154,6 +154,7 @@ header .header-bottom .container .big-device > div.week-period {
   border-right: 1px solid #F9F9FA;
   line-height: 70px;
   font-size: 6px;
+  text-align: center;
 }
 
 header .header-bottom .container .big-device > div.big-flex-weeklist {
