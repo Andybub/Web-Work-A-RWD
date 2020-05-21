@@ -438,6 +438,10 @@ main .container .projects.small-device .sunday .title {
   background-color: #3E6984;
 }
 
+main .container .projects.big-device {
+  display: none;
+}
+
 main .container .projects.big-device > div {
   display: none;
 }

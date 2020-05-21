@@ -390,6 +390,7 @@ main {
             }
         }
         .projects.big-device {
+            display: none;
             > div {
                 display: none;
                 &.active {
